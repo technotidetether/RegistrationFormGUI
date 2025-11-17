@@ -1,0 +1,1 @@
+![Alt text](RegistrationFormGUI.png "Registration Form GUI")
